@@ -1,0 +1,3 @@
+name = 'Ayaz'
+
+len(name)
